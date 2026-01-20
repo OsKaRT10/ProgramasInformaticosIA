@@ -13,7 +13,7 @@
 | **TOTAL ponderado**                        |            | **153**      | **103** | **146**    | **131**    |
 
 
-##Conclusion
+Conclusion
 
 Para el caso de uso planteaado (entrenar un modelo y desplegarlo como API de predicciones), el mejor lenguaje es Python.
 Su amplio ecosistema de Machine Learning y Deep Learning, con librerias como scikit-learn, permite entrenar modelos de forma rápida, 
